@@ -1,0 +1,5 @@
+language: cpp
+OS: windows
+script:
+ - cmake ./
+© 2018 GitHub, Inc.
